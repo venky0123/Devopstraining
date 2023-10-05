@@ -1,4 +1,4 @@
-<h1> Welcome to greate coder technologies<h1>
-<p> Welcome to the devops tarining and institute<p>
+<h1> Welcome<h1>
+<p>GreatCoder Technologies<p>
 
     
